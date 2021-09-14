@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bimprs
+- 👋 Hi, I’m Bima P
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 📫 How to reach me https://www.linkedin.com/in/bima-prs/
